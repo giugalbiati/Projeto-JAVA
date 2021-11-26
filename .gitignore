@@ -1,0 +1,17 @@
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.bin/
+bin/
+*.project
+*.classpath
+*/projetoJavaB1/src/module-info.java /
+/projetoJavaB1/src/module-info.java /
