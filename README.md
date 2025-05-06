@@ -1,5 +1,5 @@
 # Projeto-Java
-Bootcamp Generation Brasil
-Projeto em grupo
+Projeto em grupo desenvolvido no bootcamp da Generation Brasil.
 
-Ideia do Programa: tem o intuito de indicar a melhor opção de energia sustentável para o uso de uma empresa.
+# Ideia do Programa: 
+Tem o intuito de indicar a melhor opção de energia sustentável para o uso de uma empresa.
